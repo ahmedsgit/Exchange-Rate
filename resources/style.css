@@ -93,8 +93,8 @@ button:focus {
 }
 
 input::placeholder,
-#amount-one,
-#amount-two {
+#first-amount,
+#second-amount {
   color: var(--primary-color);
 }
 
